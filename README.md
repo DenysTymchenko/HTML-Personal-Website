@@ -1,2 +1,2 @@
 # Personal-Website
-My personal CV website
+My personal cv website
